@@ -15,3 +15,4 @@ The 3d coordinate errors was less than 2mm.
 The intel realsense cameras should be installed that can see 3 surface of the box.
 
  https://drive.google.com/file/d/1dG1EglPqRQ5ZdXu5FLQiHgSputPWN1FJ/view?usp=drive_link
+ https://drive.google.com/file/d/1NdjnjJsrwiOZQ4TMn09XGmvZBdv1xL2L/view?usp=sharing
